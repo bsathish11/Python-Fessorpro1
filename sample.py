@@ -1,5 +1,0 @@
-print("hello")
-print("world")
-print("hi")
-print("i m sathish")
-print("i m good")
